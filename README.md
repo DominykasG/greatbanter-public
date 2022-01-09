@@ -20,7 +20,7 @@
 * ```npm install```
 * ```npm start```
 
-###Server
+### Server
 * Open api folder
 * Open solution
 * F5 to start the app
